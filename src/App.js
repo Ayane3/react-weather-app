@@ -20,7 +20,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://shimmering-brigadeiros-d5aa85.netlify.app"
+            href="https://github.com/Ayane3/react-weather-app"
             target="_blank"
             rel="noreferrer"
           >
